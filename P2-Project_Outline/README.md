@@ -7,12 +7,38 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+
+My project will be a travel blog that will allow users can create and read blog posts. Users will be able to create an account, log in, create, edit, and delete their blog posts like title, content, location, and date/time.
+
+I decided to make this project because I am passionate with travelling and I want to share my experiences about places where I travelled. 
 ### Features
-Include Features here
+
+User login: Users will be able to create accounts and log in to the application. Each user will have a profile page.
+
+Create Post: Users will be able to create new blog posts when logged in. New posts will appear in the user’s profile.
+
+Edit Post: Users will be able to edit/delete their blog posts.
+
 ### Technologies
-Include Technologies here
+
+Java
+
+Spring Boot
+
+MySQL
+
+Thymeleaf templates
+
+Bootstrap
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+
+I don't have much experience working with Spring Boot. So I will learn more about its new version.
+
+I will learn more about bootstrap to make the website look better.
+
 ### Project Tracker
-Link to your Trello board here
+
+[Pivotal Tracker](https://www.pivotaltracker.com/n/projects/2400040)
+
+
