@@ -25,4 +25,4 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Project Repo Link
 
-[Github LienRyan](https://github.com/lienryan/blog-liftoff.git)
+[Github LienRyan blog-liftoff project](https://github.com/lienryan/blog-liftoff.git)
