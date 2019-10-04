@@ -10,7 +10,7 @@ For this assignment, you'll create some initial plans for your project.
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 <ul> 
-<li><a href="\lc101\liftoff-assignments\P3-Project_Planning\UserSignup.JPG"> User Signup</a></li>
+<li><a href="/lc101/liftoff-assignments/P3-Project_Planning/UserSignup.JPG"> User Signup</a></li>
 <li><a href="\lc101\liftoff-assignments\P3-Project_Planning\UserLogin.JPG"> User Login</a></li>
 <li><a href="\lc101\liftoff-assignments\P3-Project_Planning\UserCreateCategory.JPG"> Create Category</a></li>
 <li><a href="\lc101\liftoff-assignments\P3-Project_Planning\UserCreateBlog.JPG"> Create Blog</a></li>
