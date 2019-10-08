@@ -8,9 +8,9 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ### Overview
 
-My project will be a travel blog that will allow users can create and read blog posts. Users will be able to create an account, log in, create, edit, and delete their blog posts like title, content, location, and date/time.
+My project will be a travel blog that will allow users to create and read blog posts. Users will be able to create an account, log in, create, edit and delete their blog posts like title, content, location, and date/time.
 
-I decided to make this project because I am passionate with travelling and I want to share my experiences about places where I travelled. 
+I decided to make this project because I am passionate about travelling and I want to share my experiences  with the amazing places I have travelled. 
 ### Features
 
 User login: Users will be able to create accounts and log in to the application. Each user will have a profile page.
@@ -33,7 +33,7 @@ Bootstrap
 
 ### What I'll Have to Learn
 
-I don't have much experience working with Spring Boot. So I will learn more about its new version.
+I am inexperienced with Spring Boot. So my goal is to learn more about the most current version.
 
 I will learn more about bootstrap to make the website look better.
 
