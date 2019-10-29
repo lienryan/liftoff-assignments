@@ -8,3 +8,5 @@ This assignment will get you set up and rolling with a basic project. By the end
 
 ### Project Repository
 [Github LienRyan blog-liftoff project](https://github.com/lienryan/blog-liftoff.git)
+
+![Project Setup](./ProjectSetup.JPG)
