@@ -19,7 +19,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Project Tracker
 
-[Pivotal Tracker Link](https://www.pivotaltracker.com/n/projects/2400040)
+[Trello Tracker Link](https://trello.com/b/c3LHycD9/liftoff)
 
 ![Stories Tracker](./StoriesTracker.JPG)
 
