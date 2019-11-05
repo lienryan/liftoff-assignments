@@ -14,7 +14,7 @@ https://github.com/lienryan
 ### LinkedIn
 Provide a link to your LinkedIn account here.
 
-https://www.linkedin.com/in/lien-ryan-279a76173/
+https://www.linkedin.com/in/lienryan/
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
